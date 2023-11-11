@@ -1,0 +1,12 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Titl
+  given-names: Vitezslav
+- family-names: Mazrekaj
+  given-names: Deni
+- family-names: Schiltz
+  given-names: Deni
+title: Identifying Politically Connected Firms: A Machine Learning Approach
+version: v1.0
+date-released: 2023-11-11
